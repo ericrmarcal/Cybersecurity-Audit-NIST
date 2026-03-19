@@ -22,3 +22,6 @@ A empresa apresenta um score de risco de **8/10**. Minhas recomendações focara
 
 ---
 *Este é um projeto de simulação técnica para fins de estudo e portfólio.*
+
+## 📂 Documentação
+* * [📄 Acessar Relatório de Auditoria](./auditoria-interna-botium-toys.pdf)
